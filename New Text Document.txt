@@ -1,0 +1,69 @@
+They only charge Protein...
+
+
+
+
+
+QBD has free add on's so hard to quantify in the order detail....
+Some QBD has full bar...where food and drink are rung at the register...
+
+
+-> hashed cc  to determine the customer type qns...
+
+-> product mix, product units, sales qty, margin, location, marketing promotion, time and date , tv or radio , coupons etc...
+
+
+Which locations , time period could be group, fiscal week, period, years..., MCA Market hierarchy for Rachel....Division ,region , district for Other business user....
+
+Location Hierarchies
+	 
+	 -> Market
+         -> Operations
+         -> NBL (National Burger League)
+
+
+period and qtr analysis.
+
+
+operations datamart...for speed or slow process...
+
+
+bundling type --- imp...
+
+
+DAY Level..
+
+80% its all at WEEK level ...followed by month...
+
+QTR reports ...
+
+
+Bundling type...Imp
+Product Segment -> Product Category -> Product Sub Category -> Product group -> Product Item.
+
+product segments ( Burgers, chicken, drinks, other, sides, breakfast) -- IMP
+product group   -- IMP 
+
+
+For WEEK 47 are we selling at something at 10-11 AM????????????????
+
+
+DAY -- Breakfast , Lunch , Dinner is IMP but HOUR level is also Important..
+
+
+
+CHRIS:
+=======
+
+Weekly or the period..day 
+
+day part (very rare half hour)
+
+
+MARKET level is most widely used...not at operational level (DO , VP of Operations , DM).....
+
+Loyalty Type is going be used mostly...
+Transaction Type 
+Customer Type
+
+Catering vs Others (Online Ordering vs Instore vs Mobile App...Order Type..)...INLCUDE A flag...
